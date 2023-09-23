@@ -29,7 +29,7 @@ The goal will be to play a simple game of Blackjack (two players, each gets two 
 - if a player has an Ace and a losing score, change the value of Ace to 11, then check if this is a winning score
 - allow for multiple rounds to be played
 - keep a bankroll, allow players to make bets
-- Use React to build a user interface and allow the game to be played there [very simple version example](https://vigorous-kepler-feaec9.netlify.app)
+- Use React to build a user interface and allow the game to be played there.
 
 Write down any questions about this model. What information is needed? What other considerations are there?
 
